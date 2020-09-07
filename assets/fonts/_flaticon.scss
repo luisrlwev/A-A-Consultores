@@ -1,0 +1,108 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 04/09/2020 07:16
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-libro-de-leyes:before { content: "\f100"; }
+.flaticon-subasta:before { content: "\f101"; }
+.flaticon-equilibrar:before { content: "\f102"; }
+.flaticon-subasta-1:before { content: "\f103"; }
+.flaticon-gdpr:before { content: "\f104"; }
+.flaticon-certificado:before { content: "\f105"; }
+.flaticon-derecho-civil:before { content: "\f106"; }
+.flaticon-ley:before { content: "\f107"; }
+.flaticon-justicia:before { content: "\f108"; }
+.flaticon-ley-1:before { content: "\f109"; }
+.flaticon-caso:before { content: "\f10a"; }
+.flaticon-inmobiliaria:before { content: "\f10b"; }
+.flaticon-inmobiliaria-1:before { content: "\f10c"; }
+.flaticon-dinero:before { content: "\f10d"; }
+.flaticon-bares:before { content: "\f10e"; }
+.flaticon-dinero-1:before { content: "\f10f"; }
+.flaticon-contrato:before { content: "\f110"; }
+.flaticon-estrategia:before { content: "\f111"; }
+.flaticon-presentacion:before { content: "\f112"; }
+.flaticon-hipoteca:before { content: "\f113"; }
+.flaticon-archivos:before { content: "\f114"; }
+.flaticon-bolsa-de-valores:before { content: "\f115"; }
+.flaticon-auditoria:before { content: "\f116"; }
+.flaticon-seguro:before { content: "\f117"; }
+.flaticon-auditoria-1:before { content: "\f118"; }
+.flaticon-impuesto:before { content: "\f119"; }
+.flaticon-lista-de-verificacion:before { content: "\f11a"; }
+.flaticon-equipo:before { content: "\f11b"; }
+.flaticon-contabilidad:before { content: "\f11c"; }
+.flaticon-objetivo:before { content: "\f11d"; }
+.flaticon-oportunidad:before { content: "\f11e"; }
+.flaticon-valor:before { content: "\f11f"; }
+.flaticon-call:before { content: "\f120"; }
+.flaticon-camera:before { content: "\f121"; }
+    
+    $font-Flaticon-libro-de-leyes: "\f100";
+    $font-Flaticon-subasta: "\f101";
+    $font-Flaticon-equilibrar: "\f102";
+    $font-Flaticon-subasta-1: "\f103";
+    $font-Flaticon-gdpr: "\f104";
+    $font-Flaticon-certificado: "\f105";
+    $font-Flaticon-derecho-civil: "\f106";
+    $font-Flaticon-ley: "\f107";
+    $font-Flaticon-justicia: "\f108";
+    $font-Flaticon-ley-1: "\f109";
+    $font-Flaticon-caso: "\f10a";
+    $font-Flaticon-inmobiliaria: "\f10b";
+    $font-Flaticon-inmobiliaria-1: "\f10c";
+    $font-Flaticon-dinero: "\f10d";
+    $font-Flaticon-bares: "\f10e";
+    $font-Flaticon-dinero-1: "\f10f";
+    $font-Flaticon-contrato: "\f110";
+    $font-Flaticon-estrategia: "\f111";
+    $font-Flaticon-presentacion: "\f112";
+    $font-Flaticon-hipoteca: "\f113";
+    $font-Flaticon-archivos: "\f114";
+    $font-Flaticon-bolsa-de-valores: "\f115";
+    $font-Flaticon-auditoria: "\f116";
+    $font-Flaticon-seguro: "\f117";
+    $font-Flaticon-auditoria-1: "\f118";
+    $font-Flaticon-impuesto: "\f119";
+    $font-Flaticon-lista-de-verificacion: "\f11a";
+    $font-Flaticon-equipo: "\f11b";
+    $font-Flaticon-contabilidad: "\f11c";
+    $font-Flaticon-objetivo: "\f11d";
+    $font-Flaticon-oportunidad: "\f11e";
+    $font-Flaticon-valor: "\f11f";
+    $font-Flaticon-call: "\f120";
+    $font-Flaticon-camera: "\f121";
